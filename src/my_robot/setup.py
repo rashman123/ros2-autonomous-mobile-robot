@@ -29,6 +29,7 @@ setup(
             'adder_server = my_robot.adder_server:main',
             'adder_client = my_robot.adder_client:main',
             'count_action_server = my_robot.count_action_server:main',
+	    'count_action_client = my_robot.count_action_client:main',
         ],
     },
 )
